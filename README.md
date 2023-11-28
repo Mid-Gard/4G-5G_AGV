@@ -1,2 +1,2 @@
-# 4G-5G_AGV
-construction and code for 4g and 5g autonomous vehicle
+# AGV (Autonomous Ground Vehicle)
+construction and code for Autonomous Ground Vehicle controlled using 4G and 5G
